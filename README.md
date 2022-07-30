@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Iwan
-- 🤠 I enjoy making cool projects in Typescript and React.
+- 👋 Hi, I’m Iwan
+- 🤠 I enjoy making cool projects in Typescript, React, HTML Canvas and more.
 - 📫 Reach me at iwantraegerpayne@gmail.com
 
 <!---
